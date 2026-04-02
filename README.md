@@ -70,9 +70,6 @@ You can explore my work and projects on my [personal portfolio](https://manuelc1
 
 Soy desarrollador full-stack, apasionado por crear software funcional, mantenible y centrado en el usuario.  
 Construyo aplicaciones web modernas, eficientes y escalables, cuidando cada detalle para lograr una excelente experiencia de usuario y un código limpio.
-
-Puedes ver mis proyectos y trabajos en mi [portafolio personal](https://manuelc14.github.io), donde muestro lo que hago y las tecnologías que más disfruto usar.
-
 ---
 
 ### 🛠️ Stack Tecnológico
