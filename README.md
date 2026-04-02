@@ -9,8 +9,6 @@
 I’m a full-stack developer passionate about creating functional, maintainable, and user-centered software.  
 I build modern web applications that are efficient, scalable, and visually appealing — always aiming for clean code and great user experience.
 
-You can explore my work and projects on my [personal portfolio](https://manuelc14.github.io), where I showcase what I’ve built and the technologies I love using.
-
 ---
 
 ### 🛠️ Tech Stack
